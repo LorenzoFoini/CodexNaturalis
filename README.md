@@ -1,6 +1,6 @@
 # Prova Finale di Ingegneria del Software - A.A. 2023/2024
 
-![alt text](CodexNaturalis/src/main/java/it/polimi/ingsw/view/resources/Logo.png)
+![alt text](src/main/java/it/polimi/ingsw/view/resources/Logo.png)
 
 Implementation of the board game [**Codex Naturalis**](https://www.craniocreations.it/prodotto/codex-naturalis).<br>
 The project consists in the implementation of a single-server system capable of simultaneously managing multiple games made up of 2 to 4 clients (one for each player).<br>
