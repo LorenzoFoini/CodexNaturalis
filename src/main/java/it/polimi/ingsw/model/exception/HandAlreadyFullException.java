@@ -1,0 +1,8 @@
+package it.polimi.ingsw.model.exception;
+
+/**
+ * Exception raised when try to add card in player's hand but is has already three cards
+ */
+public class HandAlreadyFullException extends Exception{
+    public HandAlreadyFullException(String message) {super(message);}
+}
